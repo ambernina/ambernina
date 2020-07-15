@@ -2,7 +2,7 @@
 
 __🔭 I’m currently working on:__ Upwork! Building the front end of a site called It's a Bribe with React 🤓
 <br/>
-__🌱 I’m currently learning:__ More and more about React
+__🌱 I’m currently learning:__ More and more about Javascript and React
 <br/>
 __💬 Ask me about:__ anything to do with South Korea 🇰🇷 
 <br/>
