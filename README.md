@@ -3,7 +3,7 @@
 ![Hello!](https://media2.giphy.com/media/LW5vBvAb48Oe9OoEKT/source.gif)
 
 🔭 I’m currently working on: Upwork! Building the front end of a site called It's a Bribe with React 🤓
-\n
+<br/>
 🌱 I’m currently learning: More and more about React
 💬 Ask me about: anything to do with South Korea 🇰🇷 
 📫 How to reach me: rob.ambernina@gmail.com
