@@ -9,8 +9,7 @@ __💬 Ask me about:__ anything to do with South Korea 🇰🇷
 __📫 How to reach me:__ rob.ambernina@gmail.com
 <br/>
 __⚡ Fun fact:__ I've worked for Disney... _twice_ 🤯
-<br/>
-__😄 Pronouns:__ She/Her
+
 
 <!--
 **ambernina/ambernina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,8 @@ __😄 Pronouns:__ She/Her
 <br/>![ryan_cheer](https://image.kpopmap.com/2017/01/006.gif)<br/>
 <br/>![ryan_friends](https://pa1.narvii.com/6865/543397c866d271884d7274fb5158acac225c3674r1-240-240_00.gif)<br/>
 <br/>![ryan_shock](https://pa1.narvii.com/6467/0b8e8c69f1e15b7b9880baf51a0ca6ca487a535f_hq.gif)<br/>
-
+<br/>
+__😄 Pronouns:__ She/Her
 
 Here are some ideas to get you started:
 
