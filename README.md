@@ -1,6 +1,6 @@
 ![ryan_wave](https://static.wixstatic.com/media/4d6aba_f7169601c8bd436bb7676bdd3e7963b6~mv2.gif)
 
-__🔭 I’m currently working on:__ Upwork! Building the front end of a site called It's a Bribe with React 🤓
+__🔭 I’m currently working on:__ Upwork! Last contract was building the front end of a site called It's a Bribe with React 🤓
 <br/>
 __🌱 I’m currently learning:__ More and more about Javascript and React
 <br/>
