@@ -1,8 +1,8 @@
 ![ryan_wave](https://static.wixstatic.com/media/4d6aba_f7169601c8bd436bb7676bdd3e7963b6~mv2.gif)
 
-__🔭 I’m currently working on:__ Last contract was building the front end of a site called It's a Bribe with React and Bootstrap 5 🤓
+__🔭 I’m currently working on:__ Last contract was building the front end of a site called It's a Bribe with React and Bootstrap 5 🤓 (You can view the code I wrote in the src folder of itsabribe.mock)
 <br/>
-__🌱 I’m currently learning:__ More and more about Javascript and React
+__🌱 I’m currently learning:__ Just started learning .NET and C#
 <br/>
 __💬 Ask me about:__ anything to do with South Korea 🇰🇷 
 <br/>
