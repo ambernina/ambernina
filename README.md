@@ -1,8 +1,8 @@
 ![ryan_wave](https://static.wixstatic.com/media/4d6aba_f7169601c8bd436bb7676bdd3e7963b6~mv2.gif)
 
-__🔭 I’m currently working on:__ Last contract was building the front end of a site called It's a Bribe with React and Bootstrap 5 🤓 <i>(You can view the code I wrote in the src folder of itsabribe.mock)</i>
+__🔭 I’m currently working on:__ Nothing outside of work rn, just focusing on my job
 <br/>
-__🌱 I’m currently learning:__ Just started learning .NET and C#
+__🌱 I’m currently learning:__ How to work well fully remote...
 <br/>
 __💬 Ask me about:__ anything to do with South Korea 🇰🇷 
 <br/>
@@ -21,7 +21,7 @@ __⚡ Fun fact:__ I've worked for Disney... _twice_ 🤯
 <br/>![ryan_friends](https://pa1.narvii.com/6865/543397c866d271884d7274fb5158acac225c3674r1-240-240_00.gif)<br/>
 <br/>![ryan_shock](https://pa1.narvii.com/6467/0b8e8c69f1e15b7b9880baf51a0ca6ca487a535f_hq.gif)<br/>
 <br/>
-__😄 Pronouns:__ She/Her
+__😄 Pronouns:__ She/They
 
 Here are some ideas to get you started:
 
